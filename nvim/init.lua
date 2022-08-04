@@ -1,0 +1,7 @@
+require("plugins")
+require("mappings")
+require("colors.gruvbox")
+require("statusline")
+require("projectexplorer")
+require("telescopefzf")
+require("filexplorer")
